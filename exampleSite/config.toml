@@ -4,13 +4,13 @@ disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
 theme = "meghna-hugo"
-title = "Meghna"
+title = "Madkom"
 [Languages.en]
-contentDir = "content/english"
+contentDir = "content/Polish"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
-home = "Home"
-languageCode = "en-us"
-languageName = "pl"
+home = "Początek"
+languageCode = "pl-PL"
+languageName = "PL"
 weight = 1
 [[Languages.en.menu.main]]
 name = "about"
