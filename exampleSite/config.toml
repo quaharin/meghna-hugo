@@ -10,7 +10,7 @@ contentDir = "content/english"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
 home = "Home"
 languageCode = "en-us"
-languageName = "En"
+languageName = "pl"
 weight = 1
 [[Languages.en.menu.main]]
 name = "about"
@@ -33,17 +33,9 @@ name = "pricing"
 url = "#pricing"
 weight = 5
 [[Languages.en.menu.main]]
-name = "blog"
-url = "#blog"
-weight = 6
-[[Languages.en.menu.main]]
 name = "contact"
 url = "#contact"
 weight = 7
-[[Languages.en.menu.main]]
-name = "themefisher"
-url = "https://themefisher.com/"
-weight = 8
 [Languages.fr]
 contentDir = "content/french"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
